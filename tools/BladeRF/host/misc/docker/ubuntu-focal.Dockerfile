@@ -21,7 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-FROM ubuntu:focal
+FROM ubuntu:20.10
 
 LABEL maintainer="Nuand LLC <bladeRF@nuand.com>"
 LABEL version="0.0.2"
