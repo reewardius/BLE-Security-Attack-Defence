@@ -21,7 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 
 LABEL maintainer="Nuand LLC <bladeRF@nuand.com>"
 LABEL version="0.0.2"
